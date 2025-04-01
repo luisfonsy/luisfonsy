@@ -1,3 +1,3 @@
 ## Hi, I'm Erik 👋
 
-📚 Computer science student at Technical University of Cluj-Napoca
+📚 Computer science student at Technical University of Cluj-Napoca<br/>
